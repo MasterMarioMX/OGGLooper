@@ -90,3 +90,29 @@ C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\Wind
 C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\changelog.txt
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\readme.txt
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\Ogg Looper.exe.config
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\Ogg Looper.exe
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\Ogg Looper.pdb
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\en-US\Ogg Looper.resources.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\es-MX\Ogg Looper.resources.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NAudio.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NAudio.Vorbis.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NVorbis.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NAudio.xml
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NAudio.Vorbis.xml
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\bin\x64\Debug\NVorbis.xml
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\loopTester.helpForm.resources
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\loopTester.Properties.Resources.resources
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.en-US.resources
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.es-MX.resources
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\en-US\Ogg Looper.resources.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\es-MX\Ogg Looper.resources.dll
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\Ogg Looper.exe
+C:\Users\gibmp\source\repos\update\OGGLooper\WindowsFormsApplication1\obj\x64\Debug\Ogg Looper.pdb

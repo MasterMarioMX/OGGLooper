@@ -50,3 +50,10 @@ Version 0.0.2.4
 +Added the hability to properly loop on songs whose loop lenght is shorter than whatever time is left after the loop starts. 
 Or for the layman, looplenght property finally works as intended (or as similar as posible to RPG Maker.), But not as precissely as I desired but whatever, better than NOTHING.
 +Added a trackbar so you can play the song at the desired position. It will automatically update and everything. It's rudimentary and it WILL change in the final version (and possible, future versions). Bugged as it doesn't work on MP3s.
+
+Version 0.0.2.5
+After long hiatus of doing this....
+*Removed an redundant error message that appears as you close files...when there's NOTHING to close.
++Added a Time Label to know EXACTLY where are you playing all along. Might wanna change that for a more...precision? later maybe
+*Made the trackbar...track progress of WAV and MP3 Files. you can roll in too! unlike ogg, these are exact down to a milisecond. Usefull for creating new loops....which by the way....
+

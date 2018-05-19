@@ -48,6 +48,7 @@
             this.but_Staph = new System.Windows.Forms.Button();
             this.but_Pause = new System.Windows.Forms.Button();
             this.audioView = new System.Windows.Forms.GroupBox();
+            this.label_Time = new System.Windows.Forms.Label();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.label_AudioData = new System.Windows.Forms.Label();
             this.radioTime = new System.Windows.Forms.RadioButton();
@@ -189,6 +190,7 @@
             // 
             // audioView
             // 
+            this.audioView.Controls.Add(this.label_Time);
             this.audioView.Controls.Add(this.trackBar1);
             this.audioView.Controls.Add(this.label_AudioData);
             this.audioView.Controls.Add(this.radioTime);
@@ -200,6 +202,11 @@
             resources.ApplyResources(this.audioView, "audioView");
             this.audioView.Name = "audioView";
             this.audioView.TabStop = false;
+            // 
+            // label_Time
+            // 
+            resources.ApplyResources(this.label_Time, "label_Time");
+            this.label_Time.Name = "label_Time";
             // 
             // trackBar1
             // 
@@ -216,15 +223,15 @@
             // radioTime
             // 
             resources.ApplyResources(this.radioTime, "radioTime");
+            this.radioTime.Checked = true;
             this.radioTime.Name = "radioTime";
+            this.radioTime.TabStop = true;
             this.radioTime.UseVisualStyleBackColor = true;
             // 
             // radioSamples
             // 
             resources.ApplyResources(this.radioSamples, "radioSamples");
-            this.radioSamples.Checked = true;
             this.radioSamples.Name = "radioSamples";
-            this.radioSamples.TabStop = true;
             this.radioSamples.UseVisualStyleBackColor = true;
             this.radioSamples.CheckedChanged += new System.EventHandler(this.radioSamples_CheckedChanged);
             // 
@@ -242,6 +249,8 @@
             // 
             resources.ApplyResources(this.text_LoopStart, "text_LoopStart");
             this.text_LoopStart.Name = "text_LoopStart";
+            this.text_LoopStart.TextChanged += new System.EventHandler(this.text_LoopStart_TextChanged);
+            this.text_LoopStart.Leave += new System.EventHandler(this.loopTextScanner);
             // 
             // label_LoopStart
             // 
@@ -342,6 +351,7 @@
         private System.Windows.Forms.TrackBar trackBar_Pitch;
         private System.Windows.Forms.Label label_Pitch;
         private System.Windows.Forms.Timer trackUpdater;
+        private System.Windows.Forms.Label label_Time;
     }
 }
 

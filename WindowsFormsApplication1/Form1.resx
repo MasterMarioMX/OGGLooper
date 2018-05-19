@@ -126,18 +126,123 @@
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>184, 17</value>
   </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="abrirToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+O</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="abrirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="abrirToolStripMenuItem.Text" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="guardarToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="guardarToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+S</value>
+  </data>
+  <data name="guardarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="guardarToolStripMenuItem.Text" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="guardarComoToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="guardarComoToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Mayús.+S</value>
+  </data>
+  <data name="guardarComoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="guardarComoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Guardar como...</value>
+  </data>
+  <data name="cerrarToolStripMenu.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cerrarToolStripMenu.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+W</value>
+  </data>
+  <data name="cerrarToolStripMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="cerrarToolStripMenu.Text" xml:space="preserve">
+    <value>Cerrar...</value>
+  </data>
+  <data name="salirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 22</value>
+  </data>
+  <data name="salirToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="archivoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 20</value>
+  </data>
+  <data name="archivoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="esMXlang.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Mayús.+1</value>
+  </data>
+  <data name="esMXlang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="esMXlang.Text" xml:space="preserve">
+    <value>Mexicano (es-MX)</value>
+  </data>
+  <data name="enUSlang.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+Mayús.+2</value>
+  </data>
+  <data name="enUSlang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>287, 22</value>
+  </data>
+  <data name="enUSlang.Text" xml:space="preserve">
+    <value>EstadoUnidense (en-US)</value>
+  </data>
+  <data name="lenguajeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 22</value>
+  </data>
+  <data name="lenguajeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 20</value>
+  </data>
+  <data name="toolStripMenuItem1.Text" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>F1</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 22</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Acerca de..</value>
+  </data>
+  <data name="ayudaToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Alt+Y</value>
+  </data>
+  <data name="ayudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 20</value>
+  </data>
+  <data name="ayudaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ayuda</value>
+  </data>
   <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="menuStrip1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 2, 0, 2</value>
+    <value>4, 2, 0, 2</value>
   </data>
   <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>709, 28</value>
+    <value>532, 24</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -156,111 +261,6 @@
   <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="archivoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 24</value>
-  </data>
-  <data name="archivoToolStripMenuItem.Text" xml:space="preserve">
-    <value>Archivo</value>
-  </data>
-  <data name="abrirToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+O</value>
-  </data>
-  <data name="abrirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 26</value>
-  </data>
-  <data name="abrirToolStripMenuItem.Text" xml:space="preserve">
-    <value>Abrir</value>
-  </data>
-  <data name="guardarToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="guardarToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+S</value>
-  </data>
-  <data name="guardarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 26</value>
-  </data>
-  <data name="guardarToolStripMenuItem.Text" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="guardarComoToolStripMenuItem.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="guardarComoToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Mayús.+S</value>
-  </data>
-  <data name="guardarComoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 26</value>
-  </data>
-  <data name="guardarComoToolStripMenuItem.Text" xml:space="preserve">
-    <value>Guardar como...</value>
-  </data>
-  <data name="cerrarToolStripMenu.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="cerrarToolStripMenu.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+W</value>
-  </data>
-  <data name="cerrarToolStripMenu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 26</value>
-  </data>
-  <data name="cerrarToolStripMenu.Text" xml:space="preserve">
-    <value>Cerrar...</value>
-  </data>
-  <data name="salirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>293, 26</value>
-  </data>
-  <data name="salirToolStripMenuItem.Text" xml:space="preserve">
-    <value>Salir</value>
-  </data>
-  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 24</value>
-  </data>
-  <data name="toolStripMenuItem1.Text" xml:space="preserve">
-    <value>Configuración</value>
-  </data>
-  <data name="lenguajeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>181, 26</value>
-  </data>
-  <data name="lenguajeToolStripMenuItem.Text" xml:space="preserve">
-    <value>Idioma</value>
-  </data>
-  <data name="esMXlang.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Mayús.+1</value>
-  </data>
-  <data name="esMXlang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>349, 26</value>
-  </data>
-  <data name="esMXlang.Text" xml:space="preserve">
-    <value>Mexicano (es-MX)</value>
-  </data>
-  <data name="enUSlang.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Mayús.+2</value>
-  </data>
-  <data name="enUSlang.Size" type="System.Drawing.Size, System.Drawing">
-    <value>349, 26</value>
-  </data>
-  <data name="enUSlang.Text" xml:space="preserve">
-    <value>EstadoUnidense (en-US)</value>
-  </data>
-  <data name="ayudaToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Alt+Y</value>
-  </data>
-  <data name="ayudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 24</value>
-  </data>
-  <data name="ayudaToolStripMenuItem.Text" xml:space="preserve">
-    <value>Ayuda</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>F1</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 26</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.Text" xml:space="preserve">
-    <value>Acerca de..</value>
-  </data>
   <data name="but_Play.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
@@ -268,13 +268,13 @@
     <value>NoControl</value>
   </data>
   <data name="but_Play.Location" type="System.Drawing.Point, System.Drawing">
-    <value>59, 359</value>
+    <value>44, 292</value>
   </data>
   <data name="but_Play.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="but_Play.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 25</value>
+    <value>77, 20</value>
   </data>
   <data name="but_Play.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -301,13 +301,13 @@
     <value>NoControl</value>
   </data>
   <data name="but_Staph.Location" type="System.Drawing.Point, System.Drawing">
-    <value>272, 359</value>
+    <value>204, 292</value>
   </data>
   <data name="but_Staph.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="but_Staph.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 25</value>
+    <value>77, 20</value>
   </data>
   <data name="but_Staph.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -334,13 +334,13 @@
     <value>NoControl</value>
   </data>
   <data name="but_Pause.Location" type="System.Drawing.Point, System.Drawing">
-    <value>168, 359</value>
+    <value>126, 292</value>
   </data>
   <data name="but_Pause.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="but_Pause.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 25</value>
+    <value>77, 20</value>
   </data>
   <data name="but_Pause.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -360,9 +360,54 @@
   <data name="&gt;&gt;but_Pause.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="label_Time.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_Time.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 38</value>
+  </data>
+  <data name="label_Time.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 13</value>
+  </data>
+  <data name="label_Time.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label_Time.Text" xml:space="preserve">
+    <value>Time: </value>
+  </data>
+  <data name="&gt;&gt;label_Time.Name" xml:space="preserve">
+    <value>label_Time</value>
+  </data>
+  <data name="&gt;&gt;label_Time.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_Time.Parent" xml:space="preserve">
+    <value>audioView</value>
+  </data>
+  <data name="&gt;&gt;label_Time.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="trackBar1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <data name="trackBar1.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="trackBar1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="trackBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 70</value>
+  </data>
+  <data name="trackBar1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="trackBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>377, 45</value>
+  </data>
+  <data name="trackBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
   <data name="&gt;&gt;trackBar1.Name" xml:space="preserve">
     <value>trackBar1</value>
   </data>
@@ -373,7 +418,25 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;trackBar1.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
+  </data>
+  <data name="label_AudioData.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_AudioData.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 15</value>
+  </data>
+  <data name="label_AudioData.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label_AudioData.Size" type="System.Drawing.Size, System.Drawing">
+    <value>117, 13</value>
+  </data>
+  <data name="label_AudioData.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="label_AudioData.Text" xml:space="preserve">
+    <value>Info del Audio Va AQUÍ</value>
   </data>
   <data name="&gt;&gt;label_AudioData.Name" xml:space="preserve">
     <value>label_AudioData</value>
@@ -385,7 +448,28 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;label_AudioData.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
+  </data>
+  <data name="radioTime.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioTime.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 161</value>
+  </data>
+  <data name="radioTime.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="radioTime.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 17</value>
+  </data>
+  <data name="radioTime.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="radioTime.Text" xml:space="preserve">
+    <value>Tiempo (mm:ss:ddd)</value>
   </data>
   <data name="&gt;&gt;radioTime.Name" xml:space="preserve">
     <value>radioTime</value>
@@ -397,7 +481,25 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;radioTime.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
+  </data>
+  <data name="radioSamples.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioSamples.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 161</value>
+  </data>
+  <data name="radioSamples.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="radioSamples.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 17</value>
+  </data>
+  <data name="radioSamples.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="radioSamples.Text" xml:space="preserve">
+    <value>Muestras?</value>
   </data>
   <data name="&gt;&gt;radioSamples.Name" xml:space="preserve">
     <value>radioSamples</value>
@@ -409,6 +511,18 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;radioSamples.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="text_LoopLength.Location" type="System.Drawing.Point, System.Drawing">
+    <value>152, 137</value>
+  </data>
+  <data name="text_LoopLength.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="text_LoopLength.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 20</value>
+  </data>
+  <data name="text_LoopLength.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="&gt;&gt;text_LoopLength.Name" xml:space="preserve">
@@ -421,7 +535,28 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;text_LoopLength.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
+  </data>
+  <data name="label_LoopLenght.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_LoopLenght.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_LoopLenght.Location" type="System.Drawing.Point, System.Drawing">
+    <value>152, 118</value>
+  </data>
+  <data name="label_LoopLenght.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label_LoopLenght.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 13</value>
+  </data>
+  <data name="label_LoopLenght.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label_LoopLenght.Text" xml:space="preserve">
+    <value>Duración del Loop</value>
   </data>
   <data name="&gt;&gt;label_LoopLenght.Name" xml:space="preserve">
     <value>label_LoopLenght</value>
@@ -433,7 +568,19 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;label_LoopLenght.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
+  </data>
+  <data name="text_LoopStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 137</value>
+  </data>
+  <data name="text_LoopStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="text_LoopStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 20</value>
+  </data>
+  <data name="text_LoopStart.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;text_LoopStart.Name" xml:space="preserve">
     <value>text_LoopStart</value>
@@ -445,7 +592,25 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;text_LoopStart.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
+  </data>
+  <data name="label_LoopStart.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_LoopStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 118</value>
+  </data>
+  <data name="label_LoopStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label_LoopStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 13</value>
+  </data>
+  <data name="label_LoopStart.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label_LoopStart.Text" xml:space="preserve">
+    <value>Inicio de Loop</value>
   </data>
   <data name="&gt;&gt;label_LoopStart.Name" xml:space="preserve">
     <value>label_LoopStart</value>
@@ -457,19 +622,19 @@
     <value>audioView</value>
   </data>
   <data name="&gt;&gt;label_LoopStart.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>8</value>
   </data>
   <data name="audioView.Location" type="System.Drawing.Point, System.Drawing">
-    <value>52, 82</value>
+    <value>39, 67</value>
   </data>
   <data name="audioView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="audioView.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="audioView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>519, 224</value>
+    <value>389, 182</value>
   </data>
   <data name="audioView.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -489,245 +654,17 @@
   <data name="&gt;&gt;audioView.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <metadata name="trackBar1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="trackBar1.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="trackBar1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="trackBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 86</value>
-  </data>
-  <data name="trackBar1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="trackBar1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>503, 56</value>
-  </data>
-  <data name="trackBar1.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;trackBar1.Name" xml:space="preserve">
-    <value>trackBar1</value>
-  </data>
-  <data name="&gt;&gt;trackBar1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;trackBar1.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;trackBar1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label_AudioData.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label_AudioData.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 18</value>
-  </data>
-  <data name="label_AudioData.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 17</value>
-  </data>
-  <data name="label_AudioData.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="label_AudioData.Text" xml:space="preserve">
-    <value>Info del Audio Va AQUÍ</value>
-  </data>
-  <data name="&gt;&gt;label_AudioData.Name" xml:space="preserve">
-    <value>label_AudioData</value>
-  </data>
-  <data name="&gt;&gt;label_AudioData.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label_AudioData.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;label_AudioData.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="radioTime.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioTime.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="radioTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>124, 198</value>
-  </data>
-  <data name="radioTime.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="radioTime.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 21</value>
-  </data>
-  <data name="radioTime.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="radioTime.Text" xml:space="preserve">
-    <value>Tiempo (mm:ss:ddd)</value>
-  </data>
-  <data name="&gt;&gt;radioTime.Name" xml:space="preserve">
-    <value>radioTime</value>
-  </data>
-  <data name="&gt;&gt;radioTime.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioTime.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;radioTime.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="radioSamples.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioSamples.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 198</value>
-  </data>
-  <data name="radioSamples.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="radioSamples.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 21</value>
-  </data>
-  <data name="radioSamples.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="radioSamples.Text" xml:space="preserve">
-    <value>Muestras?</value>
-  </data>
-  <data name="&gt;&gt;radioSamples.Name" xml:space="preserve">
-    <value>radioSamples</value>
-  </data>
-  <data name="&gt;&gt;radioSamples.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioSamples.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;radioSamples.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="text_LoopLength.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 169</value>
-  </data>
-  <data name="text_LoopLength.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="text_LoopLength.Size" type="System.Drawing.Size, System.Drawing">
-    <value>169, 22</value>
-  </data>
-  <data name="text_LoopLength.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;text_LoopLength.Name" xml:space="preserve">
-    <value>text_LoopLength</value>
-  </data>
-  <data name="&gt;&gt;text_LoopLength.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;text_LoopLength.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;text_LoopLength.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="label_LoopLenght.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label_LoopLenght.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label_LoopLenght.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 145</value>
-  </data>
-  <data name="label_LoopLenght.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 17</value>
-  </data>
-  <data name="label_LoopLenght.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="label_LoopLenght.Text" xml:space="preserve">
-    <value>Duración del Loop</value>
-  </data>
-  <data name="&gt;&gt;label_LoopLenght.Name" xml:space="preserve">
-    <value>label_LoopLenght</value>
-  </data>
-  <data name="&gt;&gt;label_LoopLenght.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label_LoopLenght.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;label_LoopLenght.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="text_LoopStart.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 169</value>
-  </data>
-  <data name="text_LoopStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
-  </data>
-  <data name="text_LoopStart.Size" type="System.Drawing.Size, System.Drawing">
-    <value>169, 22</value>
-  </data>
-  <data name="text_LoopStart.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;text_LoopStart.Name" xml:space="preserve">
-    <value>text_LoopStart</value>
-  </data>
-  <data name="&gt;&gt;text_LoopStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;text_LoopStart.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;text_LoopStart.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label_LoopStart.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label_LoopStart.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 145</value>
-  </data>
-  <data name="label_LoopStart.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 17</value>
-  </data>
-  <data name="label_LoopStart.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="label_LoopStart.Text" xml:space="preserve">
-    <value>Inicio de Loop</value>
-  </data>
-  <data name="&gt;&gt;label_LoopStart.Name" xml:space="preserve">
-    <value>label_LoopStart</value>
-  </data>
-  <data name="&gt;&gt;label_LoopStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label_LoopStart.Parent" xml:space="preserve">
-    <value>audioView</value>
-  </data>
-  <data name="&gt;&gt;label_LoopStart.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="Volumen.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
   <data name="Volumen.Location" type="System.Drawing.Point, System.Drawing">
-    <value>59, 390</value>
+    <value>44, 317</value>
   </data>
   <data name="Volumen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 5, 5, 5</value>
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="Volumen.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 39</value>
+    <value>32, 32</value>
   </data>
   <data name="Volumen.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -736,7 +673,7 @@
     <value>Volumen</value>
   </data>
   <data name="&gt;&gt;Volumen.Type" xml:space="preserve">
-    <value>NAudio.Gui.Pot, NAudio, Version=1.7.3.0, Culture=neutral, PublicKeyToken=null</value>
+    <value>NAudio.Gui.Pot, NAudio, Version=1.8.4.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;Volumen.Parent" xml:space="preserve">
     <value>$this</value>
@@ -748,10 +685,13 @@
     <value>True</value>
   </data>
   <data name="labelVolume.Location" type="System.Drawing.Point, System.Drawing">
-    <value>109, 390</value>
+    <value>82, 317</value>
+  </data>
+  <data name="labelVolume.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
   </data>
   <data name="labelVolume.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 34</value>
+    <value>48, 26</value>
   </data>
   <data name="labelVolume.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -782,13 +722,10 @@
     <value>False</value>
   </data>
   <data name="trackBar_Pitch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>180, 390</value>
-  </data>
-  <data name="trackBar_Pitch.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>135, 317</value>
   </data>
   <data name="trackBar_Pitch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>139, 56</value>
+    <value>104, 45</value>
   </data>
   <data name="trackBar_Pitch.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -809,13 +746,10 @@
     <value>True</value>
   </data>
   <data name="label_Pitch.Location" type="System.Drawing.Point, System.Drawing">
-    <value>327, 399</value>
-  </data>
-  <data name="label_Pitch.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>245, 324</value>
   </data>
   <data name="label_Pitch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>83, 17</value>
+    <value>63, 13</value>
   </data>
   <data name="label_Pitch.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -842,10 +776,10 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+    <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>709, 441</value>
+    <value>532, 358</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1067,7 +1001,7 @@
 </value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 2, 3, 2</value>
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>OGG Looper para RPG Maker MV/XP                                           </value>

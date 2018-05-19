@@ -75,7 +75,7 @@ namespace WindowsFormsApplication1
         }
         private void enabler_main(Boolean choise)
         {
-            trackBar_Pitch.Enabled = Volumen.Enabled = cerrarToolStripMenu.Enabled = guardarComoToolStripMenuItem.Enabled = guardarToolStripMenuItem.Enabled = but_Pause.Enabled = but_Play.Enabled =  but_Staph.Enabled = Volumen.Enabled=trackBar1.Enabled = choise;
+            /*trackBar_Pitch.Enabled = */Volumen.Enabled = cerrarToolStripMenu.Enabled = guardarComoToolStripMenuItem.Enabled = guardarToolStripMenuItem.Enabled = but_Pause.Enabled = but_Play.Enabled =  but_Staph.Enabled = Volumen.Enabled=trackBar1.Enabled = choise;
         }
         private void enabler_edits(Boolean choise)
         {
@@ -162,10 +162,12 @@ namespace WindowsFormsApplication1
                     archivoActual = dialog.OpenFile();                    
                     try
                     {
+                        //wavs are diferent, I can get their (aproximate) total time so we use that instead.
                         WaveFileReader temp = new WaveFileReader(archivoActual);
                         wove = new LoopWAV(temp);                        
                         waveOut = new WaveOutEvent();                        
-                        waveOut.Init(wove);
+                        waveOut.Init(wove);                                     
+                        trackBar1.Maximum = (((int)wove.TotalTime.TotalSeconds)+1)*1000 ;//miliseconds precise?
                         audioView.Text = "";
                         enabler_main(true);
                         //MessageBox.Show("Loading a WAVe of sound!", "Incredibly LAME pun!");
@@ -187,12 +189,14 @@ namespace WindowsFormsApplication1
                     {
                         //H4R0X the MP3 to make it a WAV instead! way to evade a LAME royalty ;-)
                         //also it's easier to transform to OGG if the user desires.
+                        //IF I MANAGE TO TURN IT INTO AN OGG THAT IS!!!
                         archivoActual = dialog.OpenFile();
                         Mp3FileReader rad = new Mp3FileReader(archivoActual);                        
                         emp3 = WaveFormatConversionStream.CreatePcmStream(rad);
                         wove = new LoopWAV(emp3);
                         waveOut = new WaveOutEvent();
-                        waveOut.Init(wove);                        
+                        waveOut.Init(wove);
+                        trackBar1.Maximum = (((int)wove.TotalTime.TotalSeconds) + 1) * 1000;//miliseconds precise?
                         currentFormat = (sbyte)formats.mp3;
                         label_AudioData.Text = waveOut.OutputWaveFormat.ToString();
                         audioView.Text = dialog.SafeFileName;                        
@@ -200,7 +204,7 @@ namespace WindowsFormsApplication1
                     }
                     catch (Exception horror)
                     {
-                        MessageBox.Show("Error on loading FILE...it was that bad of a file.\n\n" + horror.Message, "Load error");
+                        MessageBox.Show("Error on loading FILE...\n\n" + horror.Message, "Load error");
                         cerrarToolStripMenu_Click(sender, e);
                     }
                     
@@ -215,7 +219,7 @@ namespace WindowsFormsApplication1
             }
             else
             {
-                MessageBox.Show("Load Failed 8-( no play 4 u :,( ","Error Loading File");
+                //normally chech if error but nope, not for now.
             }
 
             dialog.Dispose();  
@@ -267,13 +271,14 @@ namespace WindowsFormsApplication1
                 trackUpdater.Stop();
                 trackBar1.Value = 0;
             }
-            catch { MessageBox.Show("Error Disposing invisible File\nthat or you got a random error.","Data Still EXPUNGED"); }
+            catch { }
             waveOut.Stop();
             waveOut.Dispose();
             audioView.Text = "X_X";
             label_AudioData.Text = "[DATA EXPUNGED]";
             enabler_main(false);
             lastFormatOpened = 0;
+            label_Time.Text = "Time: ";            
         }
 
         private void toolStripMenuItem1_Click_1(object sender, EventArgs e)
@@ -386,12 +391,11 @@ namespace WindowsFormsApplication1
 
         private void trackUpdater_Tick(object sender, EventArgs e)
         {
-            trackBar1.Value = (int)(((float)wove.Position/(float)wove.Length)* (((float)sampleTotal / (float)sampleRate) * 1000f));
-        }
-
-        private void trackBar1_Scroll(object sender, EventArgs e)
-        {
-           
+            if (currentFormat == (int)formats.ogg)
+                trackBar1.Value = (int)(((float)wove.Position / (float)wove.Length) * (((float)sampleTotal / (float)sampleRate) * 1000f));
+            else 
+                trackBar1.Value = (wove.CurrentTime.Minutes*60000)+(wove.CurrentTime.Seconds*1000)+wove.CurrentTime.Milliseconds;//ludicrous precision and taking account that a wav/mp3 might not be LONGER than 60 Minutes somehow? Just don't try with podcasts that last THAT long or more!
+            label_Time.Text = string.Format( "Time: {0:D2}:{1:D2}:{2:D3}",wove.CurrentTime.Minutes,wove.CurrentTime.Seconds,wove.CurrentTime.Milliseconds);
         }
 
         private void trackBar1_MouseDown(object sender, MouseEventArgs e)
@@ -427,6 +431,22 @@ namespace WindowsFormsApplication1
         private void AudioReceive(object sender, DragEventArgs e)
         {
             
+        }
+
+        private void text_LoopStart_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void loopTextScanner(object sender, EventArgs e)
+        {
+            /*try
+            {
+                wove.loopstart = Convert.ToInt32(text_LoopStart.Text);
+            }
+            catch
+            {
+                MessageBox.Show("Error converting scribble to actual numbers.","N/A Error");
+            }*/
         }
     }
 }

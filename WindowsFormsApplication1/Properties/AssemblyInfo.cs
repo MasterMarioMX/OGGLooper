@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gorgorito Productions")]
 [assembly: AssemblyProduct("MasterMarioMX")]
-[assembly: AssemblyCopyright("Copyright © MasterMarioMX 2015-2016")]
+[assembly: AssemblyCopyright("Copyright © MasterMarioMX 2015-2018")]
 [assembly: AssemblyTrademark("Gorgorito Productions")]
 [assembly: AssemblyCulture("")]
 
@@ -33,8 +33,8 @@ using System.Runtime.InteropServices;
 // Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
 // mediante el carácter '*', como se muestra a continuación:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.0.2.4")]
-[assembly: AssemblyFileVersion("0.0.2.4")]
+[assembly: AssemblyVersion("0.0.2.5")]
+[assembly: AssemblyFileVersion("0.0.2.5")]
 
 [assembly: NeutralResourcesLanguage("es-MX")]
 
