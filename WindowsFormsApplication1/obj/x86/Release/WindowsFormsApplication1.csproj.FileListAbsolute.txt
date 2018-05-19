@@ -1,0 +1,58 @@
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Loop Tester.exe.config
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\3mx_64.ico
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Loop Tester.exe
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.helpForm.resources
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.Properties.Resources.resources
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Ogg Loop Tester.exe
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Resources\lang_es.resx
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Resources\lang_es.Designer.cs
+C:\Users\Gibrán\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.Resources.lang_es.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Looper.exe.config
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.helpForm.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.Properties.Resources.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.en-US.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.es-MX.resources
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\changelog.txt
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\readme.txt
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Looper.exe
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\en-US\Ogg Looper.resources.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\es-MX\Ogg Looper.resources.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.Vorbis.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NVorbis.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.xml
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.Vorbis.xml
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NVorbis.xml
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\en-US\Ogg Looper.resources.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\es-MX\Ogg Looper.resources.dll
+C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Ogg Looper.exe
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Looper.exe.config
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Ogg Looper.exe
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\changelog.txt
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\readme.txt
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\3mx_64.ico
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\Ogg Looper.exe
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\en-US\Ogg Looper.resources.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\es-MX\Ogg Looper.resources.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.Vorbis.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NVorbis.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\oggReader.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.xml
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NAudio.Vorbis.xml
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Release\NVorbis.xml
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.helpForm.resources
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\loopTester.Properties.Resources.resources
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.en-US.resources
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.es-MX.resources
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\en-US\Ogg Looper.resources.dll
+C:\Users\Gibrán\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\es-MX\Ogg Looper.resources.dll

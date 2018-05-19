@@ -1,0 +1,15 @@
+﻿
+
+Attempting to gather dependency information for package 'NVorbis.0.8.5' with respect to project 'WindowsFormsApplication1', targeting '.NETFramework,Version=v4.6.1'
+Gathering dependency information took 675.4 ms
+Attempting to resolve dependencies for package 'NVorbis.0.8.5' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'NVorbis.0.8.5'
+Resolved actions to install package 'NVorbis.0.8.5'
+Found package 'NVorbis 0.8.5' in 'C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\packages'.
+Package 'NVorbis.0.8.5' already exists in folder 'C:\Users\gibmp\Dropbox\Visual Studio 2015\Projects\WindowsFormsApplication1\packages'
+Added package 'NVorbis.0.8.5' to 'packages.config'
+Successfully installed 'NVorbis 0.8.5' to WindowsFormsApplication1
+Executing nuget actions took 896.18 ms
+========== Finished ==========
+Time Elapsed: 00:00:03.3179850
